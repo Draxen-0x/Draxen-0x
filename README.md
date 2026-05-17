@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 
-**Draxen** here — real name Ahmed Yasser. I'm a high school student who spends way too much time staring at disassemblers and binary dumps, and I wouldn't have it any other way.
+**Draxen** here — Real name Ahmed Yasser. I'm a school student who spends way too much time staring at disassemblers and binary dumps, and I wouldn't have it any other way.
 
 My main thing is **Reverse Engineering**: cracking open compiled binaries, figuring out what they're hiding, and understanding machines at the level most people never bother with. I grind **CTF competitions** to keep those skills sharp, and I'm constantly picking up new low-level knowledge along the way.
 
@@ -37,7 +37,7 @@ My main thing is **Reverse Engineering**: cracking open compiled binaries, figur
 </table>
 
 <blockquote>
-  <h3 align="center"><em>"I lurk in the shadows to hunt the shadows."</em></h3>
+  <h3 align="center"><em>"Reverse Engineering For Fun"</em></h3>
 </blockquote>
 
 ---
@@ -57,9 +57,7 @@ My main thing is **Reverse Engineering**: cracking open compiled binaries, figur
 <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square" />
 <img src="https://img.shields.io/badge/-Ghidra-ff4500?style=flat-square" />
 <img src="https://img.shields.io/badge/-x64dbg-2b2b2b?style=flat-square" />
-<img src="https://img.shields.io/badge/-dnSpy-2b2b2b?style=flat-square&logo=.net&logoColor=purple" />
 <img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 
 ---
 
