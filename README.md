@@ -1,16 +1,63 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/Draxen">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Draxen;Welcome+to+my+GitHub+profile+%F0%9F%98%8A;Reverse+Engineer+%7C+CTF+Player+%F0%9F%8F%81" alt="Typing SVG"/>
+  </a>
+</p>
 
-<!--
-**Draxen-0x/Draxen-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table border="0" style="border:none;">
+  <tr>
+    <td valign="top" width="60%" style="border:none;">
+👤 About Me
+Draxen here — real name Ahmed Yasser. I'm a high school student who spends way too much time staring at disassemblers and binary dumps, and I wouldn't have it any other way.
+My main thing is Reverse Engineering: cracking open compiled binaries, figuring out what they're hiding, and understanding machines at the level most people never bother with. I grind CTF competitions to keep those skills sharp, and I'm constantly picking up new low-level knowledge along the way.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 I break things apart to understand how they tick
+🏁 CTF grinder — RE & pwn are my playground
+💬 Hit me up about anything RE-related
+📖 Still a student, but the learning never stops
+
+
+  </td>
+  <td valign="top" width="40%" style="border:none;">
+🛠️ Skills
+
+Reverse Engineering
+CTF Competitions
+Problem Solving
+Cybersecurity
+Low-Level Programming
+</td>
+</tr>
+
+
+</table>
+<blockquote>
+  <h3 align="center"><em>"I lurk in the shadows to hunt the shadows."</em></h3>
+</blockquote>
+
+💻 Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+🔧 Reverse Engineering Tools
+<img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square" />
+<img src="https://img.shields.io/badge/-Ghidra-ff4500?style=flat-square" />
+<img src="https://img.shields.io/badge/-x64dbg-2b2b2b?style=flat-square" />
+<img src="https://img.shields.io/badge/-dnSpy-2b2b2b?style=flat-square&logo=.net&logoColor=purple" />
+<img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+
+📊 GitHub Stats
+Show Image
+Show Image
+
+📫 Reach Me
+
+Discord: Draxen
+
+
+Show Image
