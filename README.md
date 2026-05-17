@@ -4,46 +4,56 @@
   </a>
 </p>
 
+---
+
 <table border="0" style="border:none;">
   <tr>
     <td valign="top" width="60%" style="border:none;">
-👤 About Me
-Draxen here — real name Ahmed Yasser. I'm a high school student who spends way too much time staring at disassemblers and binary dumps, and I wouldn't have it any other way.
-My main thing is Reverse Engineering: cracking open compiled binaries, figuring out what they're hiding, and understanding machines at the level most people never bother with. I grind CTF competitions to keep those skills sharp, and I'm constantly picking up new low-level knowledge along the way.
 
+## 👤 About Me
 
-🔬 I break things apart to understand how they tick
-🏁 CTF grinder — RE & pwn are my playground
-💬 Hit me up about anything RE-related
-📖 Still a student, but the learning never stops
+**Draxen** here — real name Ahmed Yasser. I'm a high school student who spends way too much time staring at disassemblers and binary dumps, and I wouldn't have it any other way.
 
+My main thing is **Reverse Engineering**: cracking open compiled binaries, figuring out what they're hiding, and understanding machines at the level most people never bother with. I grind **CTF competitions** to keep those skills sharp, and I'm constantly picking up new low-level knowledge along the way.
+
+> - 🔬 I break things apart to understand how they tick  
+> - 🏁 CTF grinder — RE & pwn are my playground  
+> - 💬 Hit me up about anything RE-related  
+> - 📖 Still a student, but the learning never stops
 
   </td>
   <td valign="top" width="40%" style="border:none;">
-🛠️ Skills
 
-Reverse Engineering
-CTF Competitions
-Problem Solving
-Cybersecurity
-Low-Level Programming
-</td>
-</tr>
+## 🛠️ Skills
 
+- Reverse Engineering
+- CTF Competitions
+- Problem Solving
+- Cybersecurity
+- Low-Level Programming
 
+  </td>
+  </tr>
 </table>
+
 <blockquote>
   <h3 align="center"><em>"I lurk in the shadows to hunt the shadows."</em></h3>
 </blockquote>
 
-💻 Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+---
 
-🔧 Reverse Engineering Tools
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-808080?style=flat-square&logo=assemblyscript&logoColor=white)
+
+---
+
+## 🔧 Reverse Engineering Tools
+
 <img src="https://img.shields.io/badge/-IDA%20Pro-030303?style=flat-square" />
 <img src="https://img.shields.io/badge/-Ghidra-ff4500?style=flat-square" />
 <img src="https://img.shields.io/badge/-x64dbg-2b2b2b?style=flat-square" />
@@ -51,13 +61,19 @@ Show Image
 <img src="https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 
-📊 GitHub Stats
-Show Image
-Show Image
+---
 
-📫 Reach Me
+## 📊 GitHub Stats
 
-Discord: Draxen
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Draxen&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Draxen&theme=github_dark)
 
+---
 
-Show Image
+## 📫 Reach Me
+
+- **Discord:** Draxen
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Draxen&color=red)
