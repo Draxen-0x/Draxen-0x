@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Draxen">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Draxen;Welcome+to+my+GitHub+profile+%F0%9F%98%8A;Reverse+Engineer+%7C+CTF+Player+%F0%9F%8F%81" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=500&color=FF0000&lines=Hi+%F0%9F%91%8B%2C+I'm+Draxen;Welcome+to+my+GitHub+profile+%F0%9F%98%8A;Reverse+Engineer+%7C+CTF+Player+%F0%9F%8F%81" alt="Typing SVG"/>
   </a>
 </p>
 
