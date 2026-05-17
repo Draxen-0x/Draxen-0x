@@ -70,7 +70,7 @@ My main thing is **Reverse Engineering**: cracking open compiled binaries, figur
 
 ## 📫 Reach Me
 
-- **Discord:** ![Draxen](https://discord.com/users/1426023627312070656)
+- **Discord:**Draxen
 
 ---
 
