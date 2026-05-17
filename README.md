@@ -17,7 +17,7 @@
 My main thing is **Reverse Engineering**: cracking open compiled binaries, figuring out what they're hiding, and understanding machines at the level most people never bother with. I grind **CTF competitions** to keep those skills sharp, and I'm constantly picking up new low-level knowledge along the way.
 
 > - 🔬 I break things apart to understand how they tick  
-> - 🏁 CTF grinder — RE & pwn are my playground  
+> - 🏁 CTF — The binary always tells the truth.  
 > - 💬 Hit me up about anything RE-related  
 > - 📖 Still a student, but the learning never stops
 
